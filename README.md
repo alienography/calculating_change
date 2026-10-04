@@ -8,6 +8,7 @@ Split into two branches - previous versions (created earlier in thesis process b
 3. Produce a large geodataframe with this data - this is the basis for several subsequent codes
 
 Optional parts:
+
 4. Sorts % change in olive fruit fly numbers into bins and calculates the number of traps falling into each bin
 5. Produces a map output of average change by region (i.e., the 8 regions of Samos)
 
